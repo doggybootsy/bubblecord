@@ -55,3 +55,37 @@ background-color: #202225;
 .activity-1ythUs:not(.activityProfile-2bJRaP),.tabBarContainer-1s1u-z{
 background-color: #202225;
 }
+
+.header-QKLPzZ{
+  border-radius: 8px;
+  margin:5px;
+  margin-top:10px;
+  margin-right:10px;
+  margin-left:10px;
+}
+.activityUserPopout-2yItg2{
+  margin:10px;
+  border-radius: 8px;}
+.activity-1ythUs,.tabBarContainer-1s1u-z{
+  border-radius: 8px;
+  margin:5px;
+  margin-bottom:5px;
+  margin-right:10px;
+  margin-left:10px;
+}
+.topSectionNormal-2-vo2m{
+    background-color: var(--background-secondary);
+}
+.userInfoSection-2acyCx{
+    background-color: #202225;
+    position: relative;
+  border-radius: 8px;
+  margin:5px;
+  margin-bottom:5px;
+  margin-right:10px;
+  margin-left:10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 560px;
+  right:20px;
+}
