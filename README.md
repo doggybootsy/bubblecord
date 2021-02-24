@@ -3,8 +3,15 @@
 
 
 <p align="left">
-    <img src="https://i.imgur.com/AlJvIHm.png">
+    <img src="https://i.imgur.com/B2F3Vb6.png">
 </p>
+<p align="left">
+    <img src="https://i.imgur.com/vtq729Z.png">
+</p>
+<p align="left">
+    <img src="https://i.imgur.com/QNIaQDa.png">
+</p>
+
 
 ### Description
 Makes Discord Bubbly
