@@ -1,0 +1,23 @@
+[aria-label*="SETTINGS"]{
+    margin-right:10px;
+    margin-bottom:10px;
+    border-radius: 8px;
+}
+.sidebar-CFHs9e{padding-top: 10px;padding-bottom: 10px;padding-left: 10px;}
+.sidebarRegion-VFTUkN {flex: 0 0 auto;}
+.contentColumn-2hrIYH, .customColumn-Rb6toI {max-width: unset;}
+.sidebarRegion-VFTUkN{
+    margin:10px;
+    border-radius: 8px;
+}
+.sidebarRegionScroller-3MXcoP{border-radius: 8px;}
+.contentColumn-2hrIYH{padding: 10px;}
+.contentRegion-3nDuYy{
+    margin:10px;
+}
+.contentRegionScroller-26nc1e,.contentTransitionWrap-3hqOEW,.contentRegion-3nDuYy{
+    border-radius: 8px;
+}
+
+.standardSidebarView-3F1I7i{background: var(--background-secondary-alt);}
+.toolsContainer-1edPuj{margin-right: 5px!important;padding-top: 10px!important;}
