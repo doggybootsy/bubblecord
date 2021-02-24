@@ -2,13 +2,21 @@
 # @name Bubblecord 
 * @author doggybootsy#1333
 * @description Makes Discord Bubbly
-* @version 1.0
+* @version 1.1
 */
 
 @import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/MacOsTitleBar.css);
 @import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/base.css);
 @import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/windows_titlebar.css);
+@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/Userpopouts.css);
+@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/No_white_Status_badges.css);
 
 :root{
   --TitleBar-Height:23px;
+    /* For UserStatus */
+  --online:#43b581;
+  --dnd:#f04747;
+  --idle:#faa61a;
+  --offline:rgb(116, 127, 141);
+  --streaming:rgb(89, 54, 149);
 }
