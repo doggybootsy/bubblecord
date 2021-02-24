@@ -1,0 +1,15 @@
+@use "./src/base.css";
+@use "./src/MacOsTitleBar.css";
+@use "./src/windows_titlebar.css";
+@use "./src/Userpopouts.css";
+@use "./src/No_white_Status_badges.css";
+
+:root{
+  --TitleBar-Height:23px;
+    /* For UserStatus */
+  --online:#43b581;
+  --dnd:#f04747;
+  --idle:#faa61a;
+  --offline:rgb(116, 127, 141);
+  --streaming:rgb(89, 54, 149);
+}

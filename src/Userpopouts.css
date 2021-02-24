@@ -1,0 +1,57 @@
+/*USer Popouts*/
+.header-2BwW8b{
+  border-radius: 8px;
+  margin:5px;
+  margin-top:10px;
+  margin-right:10px;
+  margin-left:10px;
+}
+.activityUserPopout-2yItg2{
+  margin:10px;
+  border-radius: 8px;}
+.body-3iLsc4{
+  border-radius: 8px;
+  margin:5px;
+  margin-bottom:5px;
+  margin-right:10px;
+  margin-left:10px;
+}
+.header-2BwW8b{
+    background-color: #202225;
+  }
+
+  .headerStreaming-2FjmGz>.activityUserPopout-2yItg2{
+    background-color:#593695;
+  }
+  .headerPlaying-j0WQBV>.activityUserPopout-2yItg2{
+    background-color:#7289da;
+  }
+  .headerSpotify-zpWxgT>.activityUserPopout-2yItg2{
+    background-color:#1db954;
+  }
+  .headerXbox-3G-4PF >.activityUserPopout-2yItg2{
+    background-color: #107c10;
+  }
+.rolesList-22qj2L ~ div {
+    display: none;
+}
+.footer-1fjuF6{
+  border-radius: 8px;
+  padding-top:10px;
+  padding-bottom:10px;
+  margin:5px;
+  margin-right:10px;
+  margin-left:10px;
+}
+.protip-YaFfgO{display:none;}
+.userPopout-3XzG_A{
+  background: var(--background-secondary-alt);}
+
+
+
+.header-QKLPzZ{
+background-color: #202225;
+}
+.activity-1ythUs:not(.activityProfile-2bJRaP),.tabBarContainer-1s1u-z{
+background-color: #202225;
+}

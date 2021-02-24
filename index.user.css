@@ -1,0 +1,11 @@
+@-moz-document domain("discord.com") {
+/* ==UserStyle==
+@name           BubbleCord
+@namespace      https://github.com/doggybootsy/bubblecord
+@version        1.0.0
+@description    Makes Discord Bubbly
+@author         Doggybootsy#1333
+==/UserStyle== */
+
+@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/base.css);
+}

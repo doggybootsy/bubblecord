@@ -1,0 +1,14 @@
+/**
+# @name Bubblecord 
+* @author doggybootsy#1333
+* @description Makes Discord Bubbly
+* @version 1.0
+*/
+
+@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/MacOsTitleBar.css);
+@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/base.css);
+@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/windows_titlebar.css);
+
+:root{
+  --TitleBar-Height:23px;
+}
