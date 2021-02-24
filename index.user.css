@@ -10,6 +10,7 @@
 @import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/base.css);
   @import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/Userpopouts.css);
   @import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/No_white_Status_badges.css);
+  @import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/settings.css);
   
   :root{
     /* For UserStatus */
