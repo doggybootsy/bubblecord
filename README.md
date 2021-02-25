@@ -1,22 +1,20 @@
 # bubblecord
 
 
-### Description
+## Description
 Makes Discord Bubbly
 (Not a remake)(Does update a lot)
 
-### Installation
-So far this Theme works on [Powercord](https://github.com/powercord-org/powercord) and [BetterDiscord](https://www.betterdiscord.net/) and [Stylus](https://chrome.google.com/webstore/detail/apmmpaebfobifelkijhaljbmpcgbjbdo)
+## Installation
+So far this Theme works on [Powercord](https://github.com/powercord-org/powercord) and [BetterDiscord](https://www.betterdiscord.net/)
 
 
-Powercord:
+# Powercord:
 ```cd powercord/src/powercord/themes && git clone https://github.com/doggybootsy/bubblecord/```
 
-Better Discord:
+# Better Discord:
 Go to the [Theme File](https://raw.githubusercontent.com/doggybootsy/bubblecord/main/Bubblecord.theme.css) and do Ctrl+s or Command+s
 
-Stylus:
-Paste the [Index Style](https://github.com/doggybootsy/bubblecord/raw/main/index.user.css) code into a new style
 
 
 ## Preview
