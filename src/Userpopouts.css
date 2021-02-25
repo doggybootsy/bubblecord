@@ -1,3 +1,4 @@
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
 /*USer Popouts*/
 .header-2BwW8b{
   border-radius: 8px;
@@ -17,7 +18,7 @@
   margin-left:10px;
 }
 .header-2BwW8b{
-    background-color: #202225;
+    background-color: var(--background-tertiary);
   }
 
   .headerStreaming-2FjmGz>.activityUserPopout-2yItg2{
@@ -50,10 +51,10 @@
 
 
 .header-QKLPzZ{
-background-color: #202225;
+background-color: var(--background-tertiary);
 }
 .activity-1ythUs,.tabBarContainer-1s1u-z{
-background-color: #202225;
+background-color: var(--background-tertiary);
 }
 
 .header-QKLPzZ{
