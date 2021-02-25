@@ -16,23 +16,8 @@
 .unreadBottom-1_LF_w{margin-bottom:80px;}
 
 
-.info-WdNIDE>.size14-e6ZScH{width:125px;}
 
-.scroller-2LSbBU {
-    bottom: -39em;
-}
 
-.scrollerSpacer-avRLaA {
-    height: 41em;
-}
-
-.scrollerSpacer-avRLaA.empty-6MGttt {
-    height: 40em;
-}
-
-.scroller-2LSbBU::-webkit-scrollbar-track {
-    margin-bottom: calc(39em + 0.5em);
-}
 .scroller-2LSbBU::-webkit-scrollbar-track {
     margin-top: calc(3.3em + 0.5em);
 }
@@ -74,7 +59,7 @@
   display:none;
 }
 .title-3qD0b-{height:0px;}
-
+.info-WdNIDE>.size14-e6ZScH{width:125px;}
 .header-2V-4Sw{
   position: absolute;
   top:12px;
