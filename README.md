@@ -17,7 +17,7 @@
 
 ### Description
 Makes Discord Bubbly
-(Not a remake)
+(Not a remake)(Does update a lot)
 
 ### Installation
 So far this Theme works on [Powercord](https://github.com/powercord-org/powercord) and [BetterDiscord](https://www.betterdiscord.net/) and [Stylus](https://chrome.google.com/webstore/detail/apmmpaebfobifelkijhaljbmpcgbjbdo)
