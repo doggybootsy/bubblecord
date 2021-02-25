@@ -16,7 +16,12 @@
 .unreadBottom-1_LF_w{margin-bottom:80px;}
 
 
-
+.animatedContainer-1NSq4T{
+  width: 218px;
+  margin-left:11px;
+  margin-top:11px;
+  border-radius: 8px;
+}
 
 .scroller-2LSbBU::-webkit-scrollbar-track {
     margin-top: calc(3.3em + 0.5em);
