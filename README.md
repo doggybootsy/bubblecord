@@ -1,15 +1,17 @@
 # bubblecord
 
 
-
 <p align="left">
-    <img src="https://i.imgur.com/B2F3Vb6.png">
+    <img src="https://github.com/doggybootsy/bubblecord/blob/main/Preview/Screen%20Shot%202021-02-24%20at%209.44.28%20PM.png?raw=true">
 </p>
 <p align="left">
-    <img src="https://i.imgur.com/vtq729Z.png">
+    <img src="https://github.com/doggybootsy/bubblecord/blob/main/Preview/Screen%20Shot%202021-02-24%20at%209.40.59%20PM.png?raw=true">
 </p>
 <p align="left">
-    <img src="https://i.imgur.com/QNIaQDa.png">
+    <img src="https://github.com/doggybootsy/bubblecord/blob/main/Preview/Screen%20Shot%202021-02-24%20at%209.41.20%20PM.png?raw=true">
+</p>
+<p align="left">
+    <img src="https://github.com/doggybootsy/bubblecord/blob/main/Preview/Screen%20Shot%202021-02-24%20at%209.42.14%20PM.png?raw=true">
 </p>
 
 
