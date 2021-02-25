@@ -5,6 +5,9 @@
     <img src="https://github.com/doggybootsy/bubblecord/blob/main/Preview/Screen%20Shot%202021-02-24%20at%209.44.28%20PM.png?raw=true">
 </p>
 <p align="left">
+    <img src="https://github.com/doggybootsy/bubblecord/blob/main/Preview/Screen%20Shot%202021-02-24%20at%2010.20.10%20PM.png?raw=true">
+</p>
+<p align="left">
     <img src="https://github.com/doggybootsy/bubblecord/blob/main/Preview/Screen%20Shot%202021-02-24%20at%209.40.59%20PM.png?raw=true">
 </p>
 <p align="left">
