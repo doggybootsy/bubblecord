@@ -202,3 +202,16 @@
     border-bottom-left-radius: 8px!important;
     border-top-left-radius: 8px!important;
 }
+.platform-osx .sidebar-2K8pFh {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.chat-3bRxxu{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-left:10px;
+}
