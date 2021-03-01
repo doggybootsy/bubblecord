@@ -5,12 +5,7 @@
 * @version 1.3
 */
 
-@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/MacOsTitleBar.css);
-@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/base.css);
-@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/windows_titlebar.css);
-@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/Userpopouts.css);
-@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/No_white_Status_badges.css);
-@import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/settings.css);
+@import url("https://raw.githack.com/doggybootsy/bubblecord/main/Import.css");
 
 :root{
   --TitleBar-Height:23px;
