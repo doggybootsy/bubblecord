@@ -4,6 +4,20 @@
 @import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/MacOsTitleBar.css);
 @import url(https://raw.githack.com/doggybootsy/bubblecord/main/src/windows_titlebar.css);
 
+.platform-osx .sidebar-2K8pFh {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.chat-3bRxxu{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-left:10px;
+}
+
 .panels-j1Uci_{
   position:absolute;
   bottom:24px;
