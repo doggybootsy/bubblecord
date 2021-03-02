@@ -5,6 +5,9 @@
   left:20px;
   border-radius:8px;
 }
+.iconWrapper-2OrFZ1+.iconWrapper-2OrFZ1[id*="-"]~.iconWrapper-2OrFZ1{
+  z-index:3001!important;
+}
 .container-3baos1{width:202px; height:44px;}
 .panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp{
   position:fixed;
