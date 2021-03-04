@@ -5,17 +5,6 @@
 Makes Discord Bubbly
 (Not a remake)(Does update a lot)
 
-## Installation
-So far this Theme works on [Powercord](https://github.com/powercord-org/powercord) and [BetterDiscord](https://www.betterdiscord.net/)
-
-
-### Powercord:
-```cd powercord/src/powercord/themes && git clone https://github.com/doggybootsy/bubblecord/```
-
-### Better Discord:
-Go to the [Theme File](https://raw.githubusercontent.com/doggybootsy/bubblecord/main/Bubblecord.theme.css) and do Ctrl+s or Command+s
-
-
 
 ## Preview
 
