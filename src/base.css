@@ -158,14 +158,17 @@
 .app-1q1i1E{
   margin-left:10px;
 }
-.scroller-2TZvBN>.tutorialContainer-1v44GL{padding-top:10px;}
+.scroller-2TZvBN>.tutorialContainer-1v44GL{padding-top:11px;}
 .scroller-RmtA4e>.content-3YMskv{
   padding-bottom: 120px;
 }
 .scroller-3GIiMh{
   margin-bottom: 60px;
 }
-
+.container-1D34oG,.container-3Mxszk,.applicationStore-1pNvnv{
+  margin-left:10px;
+  border-radius: 8px;
+}
 .tutorialContainer-1v44GL {
     position: fixed;
     top: 24px;
@@ -174,6 +177,7 @@
   padding: 0px;
   background: var(--background-secondary-alt);
   border-radius:8px;
+  padding-right:1px;
 }
 .scroller-2TZvBN > .tutorialContainer-1v44GL {
     padding-top: 5px;
@@ -186,6 +190,18 @@
 }
 .tutorialContainer-1v44GL>div>div>div>svg>foreignObject>.wrapper-1BJsBx>.childWrapper-anI2G9,.expandedFolderIconWrapper-1xLaU-,.expandedFolderBackground-2sPsd-{
   background: var(--background-tertiary);
+}
+.powercord-spotify>.container-3baos1{
+    display: none;
+}
+.powercord-spotify.hover>.container-3baos1{
+    display: flex;
+}
+.powercord-spotify:hover>.container-3baos1{
+    display: flex;
+}
+.spotify-seek-bar,.powercord-spotify .spotify-seek-bar-progress{
+    height:4px !important;
 }
 .unreadTop-3rAB3r{top:45px;}
 .avatar-SmRMf2{top:.5px;}
