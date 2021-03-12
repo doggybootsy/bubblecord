@@ -1,9 +1,0 @@
-.typeWindows-1za-n7,.winButton-iRh8-Z{
-    height: var(--TitleBar-Height);
-}
-.wordmarkWindows-1v0lYD{
-   position: absolute;
-   top: calc( calc(var(--TitleBar-Height) * .5) - 8px);
-   right:0%;}
-:root{
-  --TitleBar-Height:23px;}
