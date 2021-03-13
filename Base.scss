@@ -1,0 +1,10 @@
+@use "./src/base.css";
+
+
+:root{
+  --online:#43b581;
+  --dnd:#f04747;
+  --idle:#faa61a;
+  --offline:rgb(116, 127, 141);
+  --streaming:rgb(89, 54, 149);
+}

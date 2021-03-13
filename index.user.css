@@ -1,0 +1,18 @@
+@-moz-document domain("discord.com") {
+/* ==UserStyle==
+@name           BubbleCord
+@namespace      https://github.com/doggybootsy/bubblecord
+@version        1.3.0
+@description    Makes Discord Bubbly
+@author         Doggybootsy#1333
+==/UserStyle== */
+  
+@import url("https://raw.githack.com/doggybootsy/bubblecord/main/Import.css");
+:root{
+  --online:#43b581;
+  --dnd:#f04747;
+  --idle:#faa61a;
+  --offline:rgb(116, 127, 141);
+  --streaming:rgb(89, 54, 149);
+}
+}
