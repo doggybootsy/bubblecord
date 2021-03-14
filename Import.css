@@ -1,4 +1,3 @@
-
 .panels-j1Uci_{
   position:absolute;
   bottom:10px;
@@ -216,8 +215,10 @@
   border-radius: 8px;
   background-color: var(--background-tertiary);
 }
-.listItem-2P_4kh.mentioned .item-2hkk8m,
-.wrapper-21YSNc.mentioned .item-2hkk8m{
+.listItem-2P_4kh.mentioned>.pill-31IEus>.item-2hkk8m,
+.wrapper-21YSNc.mentioned>.pill-31IEus>.item-2hkk8m,
+.wrapper-21YSNc.mentioned>.listItem-2P_4kh>.pill-31IEus>.item-2hkk8m,
+.wrapper-21YSNc.mentioned>.pill-31IEus>.item-2hkk8m{
   background-color:rgb(240, 71, 71);
 }
 .scroller-2TZvBN > .tutorialContainer-1v44GL {
