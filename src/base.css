@@ -651,3 +651,37 @@ background-color: var(--background-tertiary);
 .sidebar-2K8pFh{
   border-radius: 8px!important;
 }
+ @media only screen and (min-width: 1200px) {
+.powercord-entities-manage-items {
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: repeat(auto-fill, calc(50% - calc(225.488px / 28)));
+    -webkit-box-pack: left;
+    -ms-flex-pack: left;
+    justify-content: left;
+    margin-top: 16px;
+}
+.powercord-product .description, .powercord-product .metadata, .powercord-product-permissions, .powercord-product-footer {
+  margin-top: 10px!important;
+  margin-bottom: 10px!important;
+}
+.powercord-product.cardPrimary-1Hv-to.card-3Qj_Yx {
+    border-radius: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-height: 233px;
+    padding: 16px 16px 0;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.powercord-entities-manage .powercord-product .metadata > div {
+    width: 100%!important;
+}
+}
