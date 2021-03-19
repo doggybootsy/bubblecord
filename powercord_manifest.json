@@ -3,6 +3,6 @@
     "description": "makes discord have a bubble feel",
     "version": "1.4.1",
     "author": "Doggybootsy#1333",
-    "theme": "aase.scss",
+    "theme": "Base.scss",
     "license": "MIT"
 }
