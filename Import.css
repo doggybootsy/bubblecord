@@ -5,6 +5,7 @@
   left:20px;
   border-radius:8px;
 }
+.scroller-2TZvBN{contain:unset;}
 .iconWrapper-2OrFZ1+.iconWrapper-2OrFZ1[id*="-"]~.iconWrapper-2OrFZ1{
   z-index:3001!important;
 }
@@ -168,13 +169,15 @@
   margin-left:10px;
   margin-right:10px;
 }
+.platform-web .app-1q1i1E{margin-top:10px;}
 .wrapper-1Rf91z{
   margin-bottom:80px;
-}.wrapper-1Rf91z {
-    margin-top: 0px!important;
+}
+.wrapper-1Rf91z {
+    margin-top: 67px!important;
   border-radius:8px;
 }.platform-win .wrapper-1Rf91z {
-    margin-top: 0px!important;
+    margin-top: 70px!important;
   border-radius:8px;
 }
 .sidebar-2K8pFh{margin-left:10px;}
@@ -182,6 +185,7 @@
 .app-1q1i1E{
   margin-left:10px;
 }
+.scroller-2TZvBN>.tutorialContainer-1v44GL{padding-top:11px;}
 .headerBar-1YYOfi{
   display: none;
 }
@@ -221,9 +225,28 @@
 .wrapper-21YSNc.mentioned>.pill-31IEus>.item-2hkk8m{
   background-color:rgb(240, 71, 71);
 }
+.tutorialContainer-1v44GL {
+    position: fixed;
+    top: 0px;
+    left: .5px;
+  z-index: 100;
+  padding: 0px;
+  background: var(--background-secondary-alt);
+  border-radius:8px;
+  padding-right:1px;
+  width:72px;
+}
+.platform-web .tutorialContainer-1v44GL {
+  width:70px;
+}
+.platform-win .tutorialContainer-1v44GL {
+    position: fixed;
+    top: 0px;
+}
 .scroller-2TZvBN > .tutorialContainer-1v44GL {
     padding-top: 5px;
 }
+.pill-2uzAFe,.guildSeparator-3s64Iy{display:none;}
 .tutorialContainer-1v44GL>.listItem-2P_4kh{
     width: 70px;
     left:.7px;
@@ -386,7 +409,6 @@
     background: rgba(0, 0, 0, 0.565);
 }
 }
-
 .header-2BwW8b{
   border-radius: 8px;
   margin:5px;
@@ -407,7 +429,6 @@
 .header-2BwW8b{
     background-color: var(--background-tertiary);
   }
-
   .topSectionStreaming-1Tpf5X+.body-3ND3kc,.headerStreaming-2FjmGz>.activityUserPopout-2yItg2{
     background-color:#593695;
   }
@@ -635,4 +656,38 @@ background-color: var(--background-tertiary);
 }
 .sidebar-2K8pFh{
   border-radius: 8px!important;
+}
+ @media only screen and (min-width: 1200px) {
+.powercord-entities-manage-items {
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: repeat(auto-fill, calc(50% - calc(225.488px / 28)));
+    -webkit-box-pack: left;
+    -ms-flex-pack: left;
+    justify-content: left;
+    margin-top: 16px;
+}
+.powercord-product .description, .powercord-product .metadata, .powercord-product-permissions, .powercord-product-footer {
+  margin-top: 10px!important;
+  margin-bottom: 10px!important;
+}
+.powercord-product.cardPrimary-1Hv-to.card-3Qj_Yx {
+    border-radius: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-height: 233px;
+    padding: 16px 16px 0;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.powercord-entities-manage .powercord-product .metadata > div {
+    width: 100%!important;
+}
 }
