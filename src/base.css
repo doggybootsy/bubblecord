@@ -255,7 +255,7 @@
   border-radius:8px;
   padding-right:1px;
 }
-    .platform-web .app-1q1i1E{margin-top:10px;}
+    .platform-web .app-1q1i1E,.platform-linux .app-1q1i1E{margin-top:10px;}
 .platform-win .tutorialContainer-1v44GL {
     position: fixed;
     top: 0px;
