@@ -99,9 +99,6 @@
   border-radius:8px;
   left:10px;
 }
-.clickable-25tGDB .header-2V-4Sw:hover{
-  background-color:var(--background-secondary-alt);
-}
 .scroller-3BxosC{
   position:relative;
 }
@@ -307,7 +304,7 @@
 .avatar-SmRMf2>.mask-1l8v16>foreignObject{mask: none;border-radius: 8px;}
 .size12-3cLvbJ:not(.marginTop20-3TxNs6):not(.colorHeaderSecondary-3Sp3Ft){max-width:112px;}
 .header-2V-4Sw{z-index: 5;}
-.animatedContainer-1NSq4T{z-index: 4;}
+.animatedContainer-1NSq4T{z-index: 2;}
 .tabBody-3YRQ8W{
   margin-top: 55px;
 }
@@ -668,9 +665,12 @@ background-color: var(--background-tertiary);
   bottom:5px;
 }
 .mentionsBadge-3tC7Mi{
-  width:30px !important;
+  width:6px !important;
   background: rgb(240, 71, 71);
   height:6px;
   border-radius: 8px;
   margin-left:15px;
+}
+.bannerImage-3KhIJ6{
+  width: 220px;
 }
