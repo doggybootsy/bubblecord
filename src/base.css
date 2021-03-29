@@ -231,6 +231,7 @@
 .listRow-hutiT_:hover,.listRow-hutiT_{
   border-radius: 8px;
   background-color: var(--background-tertiary);
+  margin-bottom: 5px;
 }
 .listItem-GuPuDH.mentioned>.pill-31IEus>.item-2hkk8m,
 .wrapper-21YSNc.mentioned>.pill-31IEus>.item-2hkk8m,
@@ -645,7 +646,7 @@ background-color: var(--background-tertiary);
   height:594px;
   margin: auto;
 }
-.closeButton-1tv5uR::After{
+:not(.closeIcon-3_iQ6l)>.closeButton-1tv5uR::After{
   content:"";
   width:200vw !important;
   height:200vh !important;
@@ -659,4 +660,17 @@ background-color: var(--background-tertiary);
 }
 .contentColumn-2hrIYH{
   margin-right:-45px;
+}
+.content-1x5b-n .numberBadge-2s8kKX{
+  background: transparent !important;
+  left:-15px !important;
+  position: relative;
+  bottom:5px;
+}
+.mentionsBadge-3tC7Mi{
+  width:30px !important;
+  background: rgb(240, 71, 71);
+  height:6px;
+  border-radius: 8px;
+  margin-left:15px;
 }
