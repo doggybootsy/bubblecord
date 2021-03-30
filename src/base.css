@@ -1,3 +1,4 @@
+
 .panels-j1Uci_{
   position:absolute;
   bottom:10px;
@@ -54,10 +55,6 @@
 }
 .form-2fGMdU::before {
     display: none;
-}
-[style="opacity: 1; height: 56px; transform: scale(1);"]{
-  top:10px;
-  position: relative;
 }
 .channelTextArea-rNsIhG {
     background-color: transparent;
@@ -590,11 +587,15 @@ background-color: var(--background-tertiary);
   bottom:80px;
   z-index: 1;
 }
+[style*="opacity: 1;"]+.listItem-GuPuDH>.guildSeparator-33mFX6{
+  display: block;
+}
 .scroller-2TZvBN{
   padding-bottom: 40px;
 }
 .scroller-1Bvpku{
   padding-bottom: 40px;
+  padding-top:10px !important;
 }
 .userPopout-3XzG_A{
   width:300px;
@@ -637,13 +638,21 @@ background-color: var(--background-tertiary);
 .layers-3iHuyZ > .layer-3QrUeG:nth-child(2){
   background: rgba(0, 0, 0, .85);
 }
-.standardSidebarView-3F1I7i{
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i{
   border-radius: 8px;
-  width:1154px;
-  height:594px;
-  margin: auto;
+  max-width:75%;
+  min-width: 593.008px;
+  height:100%;
+  margin-right: auto;
+  background: transparent;
 }
-:not(.closeIcon-3_iQ6l)>.closeButton-1tv5uR::After{
+.tutorialContainer-2sGCg9 .pill-3N7f9r{
+  display: none;
+}
+.scroller-2LSbBU{
+  padding-top:30px;
+}
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i :not(.closeIcon-3_iQ6l)>.closeButton-1tv5uR::After{
   content:"";
   width:200vw !important;
   height:200vh !important;
@@ -660,7 +669,7 @@ background-color: var(--background-tertiary);
 }
 .content-1x5b-n .numberBadge-2s8kKX{
   background: transparent !important;
-  left:-15px !important;
+  right:-5px !important;
   position: relative;
   bottom:5px;
 }
@@ -669,8 +678,26 @@ background-color: var(--background-tertiary);
   background: rgb(240, 71, 71);
   height:6px;
   border-radius: 8px;
-  margin-left:15px;
+  margin-right:15px;
 }
 .bannerImage-3KhIJ6{
   width: 220px;
+}
+.chat-settings-container,.standardSidebarView-3F1I7i{
+  border-radius: 8px;
+}
+.notice-3bPHh-{
+  margin-left:10px;
+  border-radius: 8px;
+  margin-bottom:10px;
+}
+.ephemeral-1PsL1r>.contents-2mQqc9,
+.ephemeral-1PsL1r .avatar-1BDn8e{
+  pointer-events: none !important;
+}
+.footer-1fjuF6{
+  visibility: hidden;
+}
+.inputWrapper-31_8H8{
+  visibility: visible;
 }
