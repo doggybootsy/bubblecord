@@ -670,7 +670,7 @@ background-color: var(--background-tertiary);
   position: fixed;
   z-index: -1;
 }
-.powercord-entities-manage-tabs{
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i .powercord-entities-manage-tabs{
   position: fixed;
   top:10px;
   left:10px;
@@ -691,13 +691,13 @@ background-color: var(--background-tertiary);
 .unreadTop-3rAB3r{
   margin-top:49px;
 }
-.contentRegion-3nDuYy{
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i .contentRegion-3nDuYy{
   margin-top:-42px;
 }
-.contentColumn-2hrIYH{
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i .contentColumn-2hrIYH{
   margin-right:-45px;
 }
-.powercord-entities-manage-items{
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i .powercord-entities-manage-items{
   margin-top:10px;
 }
 .content-1x5b-n .numberBadge-2s8kKX{
@@ -772,7 +772,7 @@ background-color: var(--background-tertiary);
   position: fixed;
   visibility: hidden;
 }
-.powercord-entities-manage-search .inputWrapper-31_8H8{
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i .powercord-entities-manage-search .inputWrapper-31_8H8{
   position: fixed;
   visibility: visible;
   top:10px;
@@ -782,10 +782,10 @@ background-color: var(--background-tertiary);
   border-radius: 8px;
   width:225.488px;
 }
-.powercord-entities-manage-search .inputWrapper-31_8H8>input{
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i .powercord-entities-manage-search .inputWrapper-31_8H8>input{
   border-radius: 8px !important;
 }
-.flexChild-faoVW3:not(.positionRelative-3HNyhz) .inputWrapper-31_8H8{
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i .flexChild-faoVW3:not(.positionRelative-3HNyhz) .inputWrapper-31_8H8{
   position: fixed;
   top:10px;
   left:10px;
@@ -794,7 +794,7 @@ background-color: var(--background-tertiary);
   border-radius: 8px;
   width:225.488px;
 }
-.flexChild-faoVW3:not(.positionRelative-3HNyhz) .inputWrapper-31_8H8>input{
+:not(.chat-settings-container)>.standardSidebarView-3F1I7i  .flexChild-faoVW3:not(.positionRelative-3HNyhz) .inputWrapper-31_8H8>input{
   border-radius: 8px !important;
 }
 .flexChild-faoVW3:not(.positionRelative-3HNyhz)  .marginBottom20-32qID7{
