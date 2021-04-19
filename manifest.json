@@ -1,0 +1,8 @@
+{
+	"name": "BubbleCord",
+	"description": "Makes Discord \"bubbly\".",
+	"version": "1.4.1",
+	"license": "MIT",
+	"author": "Doggybootsy#1333",
+	"theme": "Base.scss"
+}
