@@ -1,0 +1,39 @@
+.wrapper-3NnKdC {
+    margin-top: 70px !important;
+    margin-bottom: 82px;
+    .scroller-1Bvpku{
+        background-color: var(--background-secondary);
+        border-radius: var(--border-radius);
+        padding-top:10px;
+        contain: none;
+        .tutorialContainer-2sGCg9{
+            position: fixed;
+            top: 0px;
+            padding:5px 0 5px 0;
+            background-color: var(--background-secondary);
+            border-radius: var(--border-radius);
+            &>*{
+                margin: 0%;
+            }
+        }
+        *>.guildSeparator-33mFX6{
+            display: none;
+        }
+        [style]+*>.guildSeparator-33mFX6{
+            display: block;
+        }
+        .expandedFolderBackground-1cujaW,.expandedFolderIconWrapper-Huv7rA{
+            background-color: var(--background-tertiary);
+        }
+    }
+} 
+.notice-3bPHh-+.layers-3iHuyZ {
+    margin-top: 10px;
+    .wrapper-3NnKdC .tutorialContainer-2sGCg9{
+        position: fixed;
+        top:calc(var(--titlebar-height) + 46px);
+        padding:5px 0 5px 0;
+        background-color: var(--background-secondary);
+        border-radius: var(--border-radius);
+    }
+} 

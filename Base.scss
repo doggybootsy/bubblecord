@@ -1,10 +1,4 @@
-// For usrbg and many more features use the the Dev build and remove the public build
-
-/* Public build */
-@import url("https://doggybootsy.github.io/bubblecord/src/base.css");
-
-/* Dev build */
-/*@import url("https://doggybootsy.github.io/bubblecord/DEVBUILD.css");*/
+@use "./index.scss";
 
 :root{
   --online:#43b581;

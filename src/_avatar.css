@@ -1,0 +1,28 @@
+.panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp{
+    position:fixed;
+    left:10px;
+    border-radius:var(--border-radius);
+    padding-top: 0px;
+    bottom:10px;
+  }
+  .panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp::before{
+    content: "";
+    position:fixed;
+    left:0px;
+    background:var(--background-secondary-alt);
+    border-radius:var(--border-radius);
+    padding: 10px;
+    padding-top: 0px;
+    bottom:0px;
+    width: 52px;
+    height: 62px;
+    pointer-events: none;
+  }
+  .avatar-SmRMf2{
+    padding: 10px;
+    right:10px;
+    margin-bottom:10px;
+  }
+  .avatarSpeaking-2c8-9i{
+    display: none;
+  }

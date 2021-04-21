@@ -1,0 +1,93 @@
+.layers-3iHuyZ>.layer-3QrUeG:first-child{
+    transform: scale(1) !important;
+    opacity: 1 !important;
+}
+.layers-3iHuyZ>.layer-3QrUeG:nth-child(2){
+    background-color: rgba(0, 0, 0, 0.85)!important;
+    &:after{
+        content: "";
+        height: 100vh;
+        position: fixed;
+        width: 10px;
+        left: 0;
+        top: 0;
+        z-index: 101;
+    }
+    &:before{
+        content: "";
+        height: 100vh;
+        position: fixed;
+        width: 10px;
+        right: 0;
+        top: 0;
+        z-index: 101;
+    }
+    .standardSidebarView-3F1I7i{
+        background: transparent;
+        width:1200px;
+        &:after{
+            content: "";
+            height: var(--titlebar-height);
+            position: fixed;
+            width: 100vw;
+            left: 0;
+            top: 0;
+            z-index: 101;
+        }
+        &:before{
+            content: "";
+            height: 10px;
+            position: fixed;
+            width: 100vw;
+            left: 0;
+            top: calc(100vh - 10px);
+            z-index: 12334;
+        }
+        .sidebarRegion-VFTUkN{
+            margin: 10px;
+            flex: 0 0 auto;
+            border-radius: var(--border-radius);
+            .sidebarRegionScroller-3MXcoP{
+                border-radius: var(--border-radius);
+                .sidebar-CFHs9e{
+                    padding:10px;
+                    width: 220px;
+                    border-radius: var(--border-radius);
+                }
+            }
+        }
+        .contentRegion-3nDuYy{
+            margin: 10px;
+            margin-left:0;
+            border-radius: var(--border-radius);
+            .contentTransitionWrap-3hqOEW{
+                border-radius: var(--border-radius);
+                &>div{
+                    border-radius: var(--border-radius);
+                    .contentColumn-2hrIYH{
+                        max-width: unset;
+                        padding: 10px;
+                    }
+                }
+            }
+        }
+    }
+    .toolsContainer-1edPuj{
+        position: fixed;
+        z-index: -123;
+        .closeButton-1tv5uR{
+            position: fixed;
+            z-index: -1;
+            width:calc(100vw - 20px) !important;
+            height:calc(100vh - 10px - var(--titlebar-height))  !important;
+            left:10px !important;
+            top:var(--titlebar-height) !important;
+            content:"";
+            border-radius: var(--border-radius);
+            border:none;
+            &:hover{
+                background: none;
+            }
+        }
+    }
+}

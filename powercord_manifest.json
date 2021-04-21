@@ -1,8 +1,8 @@
 {
     "name": "BubbleCord",
     "description": "makes discord have a bubble feel",
-    "version": "1.4.1",
+    "version": "2.0.0",
     "author": "Doggybootsy#1333",
-    "theme": "Base.scss",
+    "theme": "./index.scss",
     "license": "MIT"
 }

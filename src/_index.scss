@@ -1,0 +1,25 @@
+@import "./userpopouts";
+@import "./usrbg";
+@import "./switches";
+@import "./userpopouts";
+@import "./tags";
+@import "./appborder";
+@import "./channels";
+@import "./guilds";
+@import "./channelicons";
+@import "./avatar";
+@import "./main";
+@import "./members";
+@import "./form";
+@import "./titlebar";
+@import "./unread";
+@import "./unreadbar";
+@import "./jumppresent";
+@import "./settings";
+@import "./search";
+@import "./notice";
+@import "./_test.styl";
+ 
+:root{
+    --border-radius:6px;
+}

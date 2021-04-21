@@ -1,0 +1,22 @@
+.container-3auIfb{
+    background: transparent !important;
+  }
+  .slider-TkfMQL{
+    left:-6px !important;
+  }
+  .slider-TkfMQL[style="left: 12px;"]>rect{
+    height:20px !important;
+    width:20px !important;
+    x:4px !important;
+    y:0px !important;
+    rx:5;
+    fill: var(--background-tertiary);
+  }
+  .slider-TkfMQL>rect{
+    height:20px !important;
+    width:20px !important;
+    x:4px !important;
+    y:0px !important; 
+    rx:5;
+    fill: var(--background-secondary-alt);
+  }

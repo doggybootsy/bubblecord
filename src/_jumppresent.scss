@@ -1,0 +1,14 @@
+.jumpToPresentBar-G1R9s6{
+    visibility: hidden;
+    bottom:15px;
+    .barButtonIcon-3t4V3d{
+        visibility: visible;
+        padding:2px;
+        background-color: var(--background-tertiary);
+        border-radius: 50%;
+        transform: scale(1.7) rotate(90deg);
+        &:hover,&:focus{
+            transform: scale(1.9) rotate(0deg);
+        }
+    }
+}

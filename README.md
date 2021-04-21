@@ -1,3 +1,0 @@
-# bubblecord
-
-Makes Discord Bubbly

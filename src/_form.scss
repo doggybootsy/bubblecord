@@ -1,0 +1,15 @@
+.form-2fGMdU{
+    margin: 10px;
+    background: var(--background-secondary-alt);
+    border-radius: var(--border-radius);
+    margin-top: 0px;
+    &>div{
+        margin-top: 10px;
+    }
+    &:before{
+        display: none;
+    }
+    .channelTextArea-2VhZ6z,.scrollableContainer-2NUZem{
+        border-radius: var(--border-radius);
+    }
+}
