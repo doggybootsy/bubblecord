@@ -18,8 +18,20 @@
 @import "./settings";
 @import "./search";
 @import "./notice";
-@import "./_test.styl";
+@import "./osxtitlebar";
+@import "./user_modals";
+@import "./badges";
+@import "./backdrop";
+@import "./status";
+@import "./avatars";
+@import "./divider";
  
 :root{
     --border-radius:6px;
+    /* For UserStatus */
+    --online:#43b581;
+    --dnd:#f04747;
+    --idle:#faa61a;
+    --offline:rgb(116, 127, 141);
+    --streaming:rgb(89, 54, 149);
 }

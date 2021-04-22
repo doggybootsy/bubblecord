@@ -1,0 +1,17 @@
+html:not(.app-focused) .unreadPillCapStroke-7rkHbg,html:not(.app-focused) .content-1o0f9g{
+    fill: var(--background-modifier-accent);
+    color: var(--background-modifier-accent);
+  }
+  html:not(.app-focused) .isUnread-3Ef-o9{
+    border-color: var(--background-modifier-accent);
+  }
+  html:not(.app-focused) .unreadPill-2HyYtt{
+    background: var(--background-modifier-accent);
+  }
+  .divider-3_HH5L {
+    margin-left: 1rem;
+    margin-right: calc(.875rem * 3 + 1px);
+  }
+  .unreadPill-2HyYtt {
+    margin-right: calc(.875rem * -2.5);
+  }

@@ -1,8 +1,8 @@
 .layers-3iHuyZ{
     margin: 10px;
-    margin-top: var(--titlebar-height);
+    margin-top: 0;
     border-radius: var(--border-radius);
 }
 .platform-osx,.platform-win{
-    --titlebar-height:28px;
+    --titlebar-height:23px;
 }

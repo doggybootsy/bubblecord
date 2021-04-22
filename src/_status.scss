@@ -1,0 +1,12 @@
+$profilestatuss:(
+    online:var(--online),
+    idle:var(--idle),
+    dnd:var(--dnd),
+    streaming:var(--streaming),
+    offline:var(--offline),
+);
+@each $name, $profilestatus in $profilestatuss{
+    [mask^="url(#svg-mask-status-#{$name}"]{
+        fill:$profilestatus;
+    }
+}

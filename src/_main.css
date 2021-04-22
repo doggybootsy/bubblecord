@@ -1,5 +1,5 @@
-.sidebar-2K8pFh+div{
-    border-radius: var(--border-radius);
+.sidebar-2K8pFh+div,.hljs{
+    border-radius: var(--border-radius) !important;
 }
 .sidebar-2K8pFh+div .scroller-2LSbBU::-webkit-scrollbar-track{
     margin-top: 47px;
@@ -12,4 +12,10 @@
 }
 .scroller-2LSbBU{
     padding-top: 20px;
+}
+.stickyScroller-24zUyY>div,.stickyHeader-1pqx0j{
+    margin-top: 50px;
+}
+.tabBody-3YRQ8W{
+    margin-top: 50px;
 }

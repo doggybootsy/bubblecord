@@ -1,0 +1,9 @@
+[class*="avatar"] {
+    border-radius: var(--border-radius);
+    .mask-1l8v16,.avatarHint-1qgaV3,.avatar-VxgULZ{
+        border-radius: var(--border-radius);
+        foreignObject{
+            mask: unset !important; 
+        }
+    }
+}

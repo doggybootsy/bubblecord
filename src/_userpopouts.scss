@@ -28,7 +28,7 @@
             background-clip: padding-box;
         }
         &:hover::-webkit-scrollbar-thumb {
-            border: 2px solid transparent;
+            border: 1px solid transparent;
             border-radius: 4px;
             background: var(--scrollbar-auto-scrollbar-color-track) ;
             background-clip: padding-box;

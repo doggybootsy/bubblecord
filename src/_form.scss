@@ -12,4 +12,40 @@
     .channelTextArea-2VhZ6z,.scrollableContainer-2NUZem{
         border-radius: var(--border-radius);
     }
+    .attachWrapper-2TRKBi{
+        display: none;
+    }
+    .autocomplete-1vrmpx,.autocompleteInner-zh20B_{
+        border-radius: var(--border-radius);
+        box-shadow: none;
+        background: transparent;
+        &>.autocompleteRow-2OthDa:first-child{
+            background: var(--background-secondary-alt);
+            border-radius: var(--border-radius);
+            margin-bottom: 10px;
+            box-shadow: var(--elevation-stroke),var(--elevation-high);
+        }
+        &>.autocompleteRow-2OthDa:not(:first-child){
+            background: var(--background-secondary);
+            border-radius: var(--border-radius);
+            box-shadow: var(--elevation-stroke),var(--elevation-high);
+        }
+        &>.thin-1ybCId{
+            background: var(--background-secondary);
+            border-radius: var(--border-radius);
+            box-shadow: var(--elevation-stroke),var(--elevation-high);
+        }
+        &>.rail-2CbP6L{
+            background: var(--background-secondary-alt);
+            border-radius: var(--border-radius) !important;
+            margin-right: 10px;
+            box-shadow: var(--elevation-stroke),var(--elevation-high);
+            &>.wrapper-2Gsate{
+                border-radius: var(--border-radius) !important;
+                &>[style]{
+                    border-radius: var(--border-radius) !important;
+                }
+            }
+        }
+    }
 }
