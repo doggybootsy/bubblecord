@@ -1,0 +1,20 @@
+/**
+ * @name Bubbelcord
+ * @description Makes discord bubbly
+ * @author Doggybootsy
+ * @version 2.0.0
+ * @authorId 515780151791976453
+ * @invite nzSs8p7x9q
+ */
+
+ @import url('');
+
+:root{
+    --border-radius:6px;
+    /* For UserStatus */
+    --online:#43b581;
+    --dnd:#f04747;
+    --idle:#faa61a;
+    --offline:rgb(116, 127, 141);
+    --streaming:rgb(89, 54, 149);
+}

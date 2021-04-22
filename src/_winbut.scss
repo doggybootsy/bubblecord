@@ -1,0 +1,65 @@
+.typeWindows-1za-n7:hover>.winButton-iRh8-Z{
+    &:nth-last-child(1){
+        &::after {
+            content: url('data:image/svg+xml; utf8, <svg width="14" height="12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path stroke="none" fill="rgb(151,85,0)" fill-rule="evenodd" transform="scale(1,1) translate(5,4)" d="M 2 3 V 1 H 15 V 3 Z"></path></svg>') !important;
+            position: absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-70%,-40%);
+         }
+    }
+    &:nth-last-child(2){
+        &::after {
+            content: url('data:image/svg+xml; utf8, <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2.82949 9.48852L3.98935 5.15986L7.15815 8.32866L2.82949 9.48852Z" fill="rgb(0,101,0)"/><path d="M9.4836 2.82787L8.32478 7.15266L5.15881 3.98669L9.4836 2.82787Z" fill="rgb(0,101,0)"/></svg>') !important;
+            width: 12px;
+            position: absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-52%,-40%);
+         }
+    }
+    &:nth-last-child(3){
+        &::after {
+            content: url('data:image/svg+xml; utf8, <svg width="10" height="10" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><line x1="1.99702" y1="2" x2="10" y2="10.003" stroke="rgb(76,0,0)" stroke-width="1.41" stroke-linecap="round"/><line x1="2" y1="10.003" x2="10.003" y2="2" stroke="rgb(76,0,0)" stroke-width="1.41" stroke-linecap="round"/></svg>') !important;
+            width: 12px;
+            position: absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-37.5%,-50%);
+         }
+    }
+}
+.winButton-iRh8-Z{
+    width: 13px;
+    height: 12px;
+    border-radius: 50%;
+    background: red;
+    display: flex;
+    margin-right: 6px;
+    top:1px;
+    &:nth-last-child(1){
+        background: #fdbc40;
+        order: 2;
+         *{
+             display: none;
+         }
+    }
+    &:nth-last-child(2){
+        background: #34c749;
+        order: 3;
+        width: 13px;
+        *{
+            display: none;
+        }
+    }
+    &:nth-last-child(3){
+        background: #fc615d;
+        order: 1;
+         *{
+             display: none;
+         }
+    }
+}
+html:not(.app-focused) .winButton-iRh8-Z{
+    background-color: var(--background-modifier-accent) !important;
+}

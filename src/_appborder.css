@@ -3,6 +3,9 @@
     margin-top: 0;
     border-radius: var(--border-radius);
 }
+.platform-linux .layers-3iHuyZ,.platform-web .layers-3iHuyZ{
+    margin-top: 10px;
+}
 .platform-osx,.platform-win{
     --titlebar-height:23px;
 }

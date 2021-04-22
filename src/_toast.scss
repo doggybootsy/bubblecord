@@ -1,0 +1,27 @@
+.powercord-toast-container{
+    .powercord-toast{
+        background: transparent;
+        border: unset;
+        box-shadow: unset;
+    }
+    .header{
+        border-radius: var(--border-radius);
+        margin-bottom: 10px;
+        border: 1px solid var(--toast-border);
+        box-shadow: 0 2px 10px 0 var(--toast-box-shadow);
+    }
+    .contents,.buttons{
+        background: var(--toast-background);
+        border-radius: var(--border-radius);
+        border: 1px solid var(--toast-border);
+        box-shadow: 0 2px 10px 0 var(--toast-box-shadow);
+        padding: 10px !important;
+        .inner{
+            margin: 0;
+            border-radius: var(--border-radius);
+        }
+    }
+    button{
+        border-radius: var(--border-radius);
+    }
+}
