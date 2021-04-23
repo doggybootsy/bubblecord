@@ -4,5 +4,5 @@
 	"version": "2.0.0",
 	"license": "MIT",
 	"author": "Doggybootsy#1333",
-	"theme": "src/_index.scss"
+    "theme": "./src/_index.scss"
 }

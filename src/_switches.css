@@ -10,7 +10,6 @@
     x:4px !important;
     y:0px !important;
     rx:5;
-    fill: var(--background-tertiary);
   }
   .slider-TkfMQL>rect{
     height:20px !important;

@@ -1,10 +1,10 @@
-.sidebar-2K8pFh,.sidebar-2K8pFh{
+.sidebar-2K8pFh{
     background: var(--background-secondary-alt);
     padding-top: 10px;
     padding-bottom: 10px;
     margin-right: 10px;
     margin-left: 10px;
-    border-radius: var(--border-radius);
+    border-radius: var(--border-radius) !important;
     .container-3w7J-x,.privateChannels-1nO12o{
         margin:10px;
         margin-top: 0px;
@@ -45,4 +45,10 @@
 }
 .liveShapeRound-32u79-{
     border-radius: var(--border-radius);
+}
+.powercord-spotify>.container-3baos1:hover{
+    backdrop-filter: unset !important;
+}
+.fullWidth-1orjjo{
+    max-width: 200px;
 }
