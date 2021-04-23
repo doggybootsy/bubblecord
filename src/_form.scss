@@ -15,6 +15,11 @@
     .attachWrapper-2TRKBi{
         display: none;
     }
+    .buttons-3JBrkn{
+        &>[aria-label]{
+            display: none;
+        }
+    }
     .autocomplete-1vrmpx,.autocompleteInner-zh20B_{
         border-radius: var(--border-radius);
         box-shadow: none;

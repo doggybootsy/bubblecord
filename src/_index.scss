@@ -17,7 +17,6 @@
 @import "./jumppresent";
 @import "./settings";
 @import "./search";
-@import "./notice";
 @import "./osxtitlebar";
 @import "./user_modals";
 @import "./badges";
@@ -28,8 +27,12 @@
 @import "./toast";
 @import "./winbut";
 @import "./quickcss";
+@import "./popouts";
+@import "./modals";
+@import "./friendgrid";
 
 :root{
+    /* 20px max */
     --border-radius:6px;
     /* For UserStatus */
     --online:#43b581;

@@ -12,7 +12,7 @@
         width:250px;
         overflow: hidden auto;
         &::-webkit-scrollbar {
-            width: var(--border-radius);
+            width: 6px;
             border-radius: var(--border-radius);
         }
         &::-webkit-scrollbar-track {

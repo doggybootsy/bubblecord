@@ -1,0 +1,23 @@
+[id^="popout_"]{
+    [aria-label]:not(.emojiPicker-3PwZFl):not(.menu-3sdvDG):not(.userPopout-3XzG_A){
+        background: transparent;
+        max-height: 50vh !important;
+        box-shadow: none;
+        .header-ykumBX,.header-2-Imhb{
+            border-radius: var(--border-radius);
+            box-shadow: var(--elevation-stroke),var(--elevation-high);
+            background: var(--background-tertiary) ;
+        }
+        .messagesPopout-24nkyi{
+            margin-top: 10px;
+            border-radius: var(--border-radius);
+            background: var(--background-secondary);
+            box-shadow: var(--elevation-stroke),var(--elevation-high);
+        }
+        .footer-1kmXd4{
+            margin-top: 10px;
+            border-radius: var(--border-radius);
+            box-shadow: var(--elevation-stroke),var(--elevation-high);
+        }
+    }
+}

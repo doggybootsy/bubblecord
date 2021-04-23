@@ -24,7 +24,6 @@
     }
     .standardSidebarView-3F1I7i{
         background: transparent;
-        width:1200px;
         &:after{
             content: "";
             height: var(--titlebar-height);
@@ -89,5 +88,12 @@
                 background: none;
             }
         }
+    }
+}
+@media only screen
+    and (min-width: 1250px){
+    .standardSidebarView-3F1I7i{
+        background: transparent;
+        width:1200px;
     }
 }
