@@ -15,3 +15,29 @@ html:not(.app-focused) .unreadPillCapStroke-7rkHbg,html:not(.app-focused) .conte
   .unreadPill-2HyYtt {
     margin-right: calc(.875rem * -2.5);
   }
+
+.authedApp-mj2Hmd::after{
+  content:'';
+  left:0;
+  top:0;
+  right:0;
+  height:70px;
+  position: absolute;
+  background: var(--background-secondary-alt);
+  z-index: 0;
+  border-radius: 5px 5px 0 0;
+}
+.authedApp-mj2Hmd::before{
+  content:'';
+  left:0;
+  top:0;
+  right:0;
+  bottom:0;
+  position: absolute;
+  background: var(--background-secondary);
+  z-index: 0;
+  border-radius: 5px;
+}
+.authedApp-mj2Hmd *{
+  z-index: 323245 !important;
+}

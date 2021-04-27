@@ -9,3 +9,6 @@
 .platform-osx,.platform-win{
     --titlebar-height:23px;
 }
+.platform-web,.platform-linux{
+    --titlebar-height:10px;
+}
